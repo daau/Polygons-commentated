@@ -10,4 +10,4 @@ In summary, the algorithm works by repeating these steps:
 3. Create a polygon from the 3 points
 4. Use the 2 recent-most points in the series as the starting points for the next polygon in the series
 
-Improvements and fork requests are welcome.
+Improvements and fork requests are welcome. All credit for the script goes to Evan You, of course.
