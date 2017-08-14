@@ -1,5 +1,7 @@
 This is an annotated version of the script used to generate the rainbow polygon series on [Evan You's site.](http://evanyou.me/)
 
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
 I was curious how the script worked because of how beautiful effect is, and I also wanted to learn about how HTML5 canvas elements work.
 
 In summary, the algorithm works by repeating these steps:
